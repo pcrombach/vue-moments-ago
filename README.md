@@ -47,7 +47,7 @@ result:
 | prefix   | false    | String | Any prefix string you want to add to the output       |
 | suffix   | false    | String | Any suffix string you want to add to the output       |
 | date     | true     | String | The date is in ISO 8601 (default format of moment.js) |
-| language | false    | String | default is "en"                                       |
+| lang     | false    | String | default is "en"                                       |
 
 ### Support Language
 
